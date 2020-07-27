@@ -15,4 +15,5 @@ def main():
   print()
   average = sum / numOfExam
   print("The average of the scores is:", average)
+  #This is a test for Git
 main()
